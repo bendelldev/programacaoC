@@ -18,7 +18,7 @@ int main() {
     printf("PRIMEIRO VAMOS MONTAR A CARTA 01\n\n");
 
     //COLETANDO DADOS DO ESTADO1
-    printf("Digite apenas a primeira letra do Estado Desejado: \n");
+    printf("Informe uma letra de 'A' a 'H' para representar seu estado: \n");
     scanf("%c", &estado1);
 
     //COLETANDO DADOS DO CODIGO1
@@ -51,7 +51,7 @@ int main() {
     // COLETANDO DADOS DA CARTA 2
 
     //COLETANDO DADOS DO ESTADO2
-    printf("Digite apenas a primeira letra do Estado Desejado: \n");
+    printf("Informe uma letra de 'A' a 'H' para representar seu estado: \n");
     scanf(" %c", &estado2);
 
     //COLETANDO DADOS DO CODIGO2
@@ -88,7 +88,7 @@ int main() {
 
     return 0;
 
-
+}
 
 
 

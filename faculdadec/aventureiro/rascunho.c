@@ -8,7 +8,7 @@ int main() {
 
     printf("******** CALCULO DE MÉDIA DE NOTAS ********\n\n");
 
-    // Armazenar os valores das Notas
+    //Armazenar os valores das Notas
     printf("Valor da primeira nota: ");
     scanf("%d", &nota1);
 
